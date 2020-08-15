@@ -25,5 +25,5 @@ spec:
         app: web-app
     spec:
       containers:
-      - image: ikambarov/web-app:1.5.1
+      - image: sera/web-app:1.5.1
         name: web-app

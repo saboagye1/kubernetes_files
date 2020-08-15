@@ -6,5 +6,5 @@ spec:
   imagePullSecrets:
   - name: mydockerhubsecret
   containers:
-  - image: evolvecybertraining/qa-custom-ubuntu
+  - image: image_name
     name: qa-custom-ubuntu

@@ -8,7 +8,7 @@ spec:
   volumes:
   - name: html
     gitRepo:
-      repository: https://github.com/ikambarov/simple-site.git
+      repository: https://github.com/sera/simple-site.git
       revision: master
       directory: .
   containers:
